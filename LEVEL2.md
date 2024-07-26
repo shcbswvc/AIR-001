@@ -1,10 +1,10 @@
-# Design a Leg for a Quadcopter Frame
+## Design a Leg for a Quadcopter Frame
 
-## Objective
+### Objective
 
 Design a leg for a quadcopter frame using the dimensions of the standard T50 frame design for quadcopters. Utilize the generative design tools in Fusion 360 to complete this task with a focus on weight reduction while maintaining the structural stiffness of the leg.
 
-## Steps
+#### Steps
 
 1. **Understand Generative Design Environment:**
    - Gain a thorough understanding of how to operate the generative design environment in Fusion 360.
@@ -17,7 +17,7 @@ Design a leg for a quadcopter frame using the dimensions of the standard T50 fra
 3. **Resource:**
    - Use the following playlist to understand the generative design environment: [Fusion 360 Generative Design Playlist](https://www.youtube.com/watch?v=sps-OR60fVU&list=PLEzzQIuBvBkr7tNcgERS9IIxLSPbb8A6M).
 
-## Design Process
+#### Design Process
 
 1. **Dimensions:**
    - Use the dimensions of the standard T50 frame design for quadcopters.
@@ -37,12 +37,12 @@ Design a leg for a quadcopter frame using the dimensions of the standard T50 fra
 5. **Iteration:**
    - Refine the design based on the initial outcomes and repeat the process as needed to achieve the best results.
 
-## Conclusion
+#### Conclusion
 
 By completing this task, you will gain practical experience in using generative design tools to create optimized components for quadcopters. This exercise emphasizes the importance of balancing weight reduction and structural integrity in design engineering.
 
-# ROS 1:
-## Gain a solid foundation in ROS 1 concepts and practices.
+## ROS 1:
+### Gain a solid foundation in ROS 1 concepts and practices.
 Tasks:
 * Set up a ROS 1 environment.
 * Understand core ROS concepts: nodes, topics, messages, services, parameters.
@@ -53,7 +53,7 @@ Tasks:
 * Rule of the Sky: Implementing Drone Regulations Using ROS
   [Resources](https://www.ros.org/)
 
-## Apply ROS 1 to a real-world robotics challenge.
+### Apply ROS 1 to a real-world robotics challenge.
 Tasks:
 * Create a Gazebo simulation environment.
 * Model drones and their dynamics in ROS 1.
@@ -62,16 +62,16 @@ Tasks:
   [Resources](https://gazebosim.org/home)
 
 
-## Integrate sensors and hardware with ROS 1.
+### Integrate sensors and hardware with ROS 1.
 Tasks:
 * Set up sensors (camera, LIDAR, IR) on a companion board.
 * Publish sensor data as ROS 1 topics.
 * Develop ROS 1 nodes to process sensor data.
  [Resources](https://github.com/Intelligent-Quads/iq_tutorials)
 
-# ROS 2 Fundamentals
+## ROS 2 Fundamentals
 
-## Learn the new features and improvements in ROS 2.
+### Learn the new features and improvements in ROS 2.
 Tasks:
 * Set up a ROS 2 environment.
 * Understand ROS 2 architecture (DDS-based communication).
@@ -82,8 +82,8 @@ Resources:
 * [ROS 2 Playlist](https://www.youtube.com/playlist?list=PLLSegLrePWgJudpPUof4-nVFHGkB62Izy)
 * [ROS 2 Documentation](https://docs.ros.org/en/humble/index.html)
 
-# ROS-taurant Renovation: Learning How to Use ROS 2 with ROS 1
-### Integrate ROS 1 and ROS 2 systems.
+## ROS-taurant Renovation: Learning How to Use ROS 2 with ROS 1
+#### Integrate ROS 1 and ROS 2 systems.
 Tasks:
 * Understand the need for interoperability.
 * Learn about the ros1_bridge package.
@@ -94,8 +94,8 @@ Resources:
 * [ros1_bridge Guide](https://docs.ros.org/en/humble/How-To-Guides/Using-ros1_bridge-Jammy-upstream.html)
 * [GitHub - ros2/ros1_bridge](https://github.com/ros2/ros1_bridge#example-1-run-the-bridge-and-the-example-talker-and-listener)
 
-# Advanced Topics and ROS 2 Deep Dive
-## ROS-a-saurus Rex: Taming the Legacy Beast (ROS 1) with a New Language (ROS 2) (continued)
+## Advanced Topics and ROS 2 Deep Dive
+### ROS-a-saurus Rex: Taming the Legacy Beast (ROS 1) with a New Language (ROS 2) (continued)
 Migrate an existing ROS 1 node into a ROS 2 node (not completely migrating from ROS 1 to ROS 2).
 Steps:
 1. Node Selection: Select a simple ROS 1 node from your project (e.g., sensor driver, processing node).
