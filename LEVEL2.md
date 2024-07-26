@@ -51,6 +51,7 @@ Tasks:
 * Work with ROS 1 packages and workspaces.
 * Develop a small ROS 1 project (e.g., simple robot simulation).
 * Rule of the Sky: Implementing Drone Regulations Using ROS
+  
   [Resources](https://www.ros.org/)
 
 ### Apply ROS 1 to a real-world robotics challenge.
@@ -59,6 +60,7 @@ Tasks:
 * Model drones and their dynamics in ROS 1.
 * Implement drone collision avoidance logic using ROS 1.
 * Simulate drone regulations and enforcement.
+  
   [Resources](https://gazebosim.org/home)
 
 
@@ -67,6 +69,7 @@ Tasks:
 * Set up sensors (camera, LIDAR, IR) on a companion board.
 * Publish sensor data as ROS 1 topics.
 * Develop ROS 1 nodes to process sensor data.
+  
  [Resources](https://github.com/Intelligent-Quads/iq_tutorials)
 
 ## ROS 2 Fundamentals
