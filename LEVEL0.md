@@ -2,6 +2,7 @@
 ## Task 1 History of aviation+Quiz
 This task is meant to teach the theory of aviation and the different types of planes in a more theoretical manner but by making it more hands-on by showing models by going and visiting the aviation department. This gives the students a brief of the history and the approach taken by the pioneers of the department.
 
+This task is meant to teach the theory of aviation and the different types of planes in a more theoretical manner but by making it more hands-on by showing models by going and visiting the aviation domain. This gives the students a brief of the history and the approach taken by the pioneers of the department.
 
 **Resource Link:**
 https://aero.iisc.ac.in/ 
@@ -32,6 +33,8 @@ Wires to connect the transmitter to the PC
 * The movements and maneuvers of the UAV/Drone
 * The modes of the transmitter 
 * Learning how to use a transmitter
+
+
 ## Task 3 - Design an airfoil in Fusion 360 of NACA 4412 airfoil coordinates
 
 Use the DAT to spline converter or the canvas tool to sketch the airfoil using an image.
@@ -42,9 +45,7 @@ Learn about different terms in an airfoil like angle of attack,camber line,chord
 
 **The design should include two types one using the wood environment and the other using composites. Design the airfoil with space efficient and 3d printable internal ribs.The wing should generate at least 5 newtons of lift at a wind speed of 25m/s.**
  
- ![Alt text](image URL)
-
- ![Alt text](image URL)
+ ![NACA 4412](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EhJfEICWzs2uJv0GOVpJvTyYN7rZdXvctg&s)
 
 **Resource Links:**
 * https://www.youtube.com/watch?v=r2uzPa9xtaw&t=138s
@@ -54,14 +55,10 @@ Learn about different terms in an airfoil like angle of attack,camber line,chord
 
 **Prerequisite:** Autodesk student 
 
-
 ## TASK - 4 : REAL WORLD APPLICATION
-
 Learn more about data extraction from drone
 
-
 ( A sample image of a pomegranate farm, helping to understand the yield)
-
 
 **Using QGIS software**
 Here different aiml topics like linear regression, computer vision(yolo model), segmentation model are used.  
