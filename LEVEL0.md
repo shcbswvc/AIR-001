@@ -1,14 +1,182 @@
-# Level 1
-## Task 1 History of aviation+Quiz
-This task is meant to teach the theory of aviation and the different types of planes in a more theoretical manner but by making it more hands-on by showing models by going and visiting the aviation department. This gives the students a brief of the history and the approach taken by the pioneers of the department.
+# Level 0
 
-This task is meant to teach the theory of aviation and the different types of planes in a more theoretical manner but by making it more hands-on by showing models by going and visiting the aviation domain. This gives the students a brief of the history and the approach taken by the pioneers of the department.
+# Generic Tasks
+
+## TASK 1: 3D Printing
+
+Understand the working of a 3D printer, check out the online resources. Understand what's an
+STL file, and then learn to slice it (using ultimaker or creality slicer).Learn about bed
+temperature, infill density and other printer settings. Finally get an STL file from the internet, and
+slice it and put it for print.
+
+Resources:
+
+● [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura/)
+
+● [PLA settings](https://standardprintco.com/read/pla-filament-printing-guide-how-to-succeed-printing-pla-and-troubleshooting-common-problems-step-by-step)
+
+● [How printer works](https://www.makeuseof.com/tag/what-is-3d-printing-and-how-exactly-does-it-work/aa/)
+
+(Note this task is to be done under coordinator supervision.)
+
+
+## TASK 2: API
+
+What is an API? [Learn](https://www.youtube.com/watch?v=s7wmiS2mSXY) the working of an API and its applications. Using any api of your choice,
+build an user interface(web app, mobile app, etc), where you can make calls and then display
+the necessary information. An example weather app is given below, using the open weather api.
+
+● [Example](https://www.youtube.com/watch?v=HAVPicZJ9ik&feature=youtu.be)
+
+
+## TASK 3: Working with Github
+
+Familiarize yourself with GitHub integrated workflows (GitHub actions), Issues, and pull requests
+with this task. Given below is a git repository, go check it out and then perform the necessary
+tasks stated in the readme file.
+
+Check this link for more info:
+https://github.com/UVCE-Marvel/git-task
+
+
+## TASK 4: Get familiar with the command line on ubuntu and do the following subtasks:
+● Create a folder named test.
+
+● cd into that folder.
+
+● Create a blank file without using any text editor.
+
+● list the files in that folder
+
+● create 2600 folders in this folder where each folder is named like . For example, M90 or
+B56.
+
+● concatenate two text files containing any random text and display them on the terminal.
+
+https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
+
+
+## TASK 5: Kaggle contest
+Make a kaggle account, visit the website and complete the competition
+
+Participate in the Titanic ML competition – the best, first challenge for you to dive into ML
+competitions and familiarize yourself with how the Kaggle platform works.The competition is
+simple: use machine learning to create a model that predicts which passengers survived the
+Titanic shipwreck.
+
+Resources:
+Titanic regression model - https://www.kaggle.com/c/titanic
+
+Video reference - https://youtu.be/I3FBJdiExcg
+
+
+## TASK 6: Working with Pandas and Matplotlib:
+
+Using pandas and matplotlib, and a dataset of your choice, plot a line graph, bar graph, and
+scatter plot.
+
+Reference:
+https://realpython.com/pandas-plot-python/
+
+
+## TASK 7: Create a Portfolio Webpage
+
+Create a website to showcase your portfolio - about yourself, interests, projects, social media
+profiles and more. It has to be responsive and also pushed to the git repository. CSS can be of
+your choice and any framework can be used.
+
+
+## TASK 8: Writing Resource Article using Markdown
+
+Markdown is an easy-to-use markup language that is used with plain text to add formatting
+elements (headings, bulleted lists, URLs) to plain text without the use of a formal text editor or
+the use of HTML tags. Markdown is device agnostic and displays the writing format consistently
+across device type.
+Write a technical resource article on a particular use case or application of UAV's. This article will help in getting the technical know how and can help make a frame work for the projects!
+
+[Link](https://hub.uvcemarvel.in/article/52f92f36-fb8a-45da-8f28-686bf4efefff)
+
+
+## TASK 9: Tinkercad
+Create a tinkercad account, get familiar with the application, understand the example circuits given and simulate a simple circuit using an ultrasonic sensor to estimate the distance between an obstacle and the sensor. Display the results on the serial monitor.
+ 
+Create a radar system utilising an ultrasonic sensor and servo motor to detect objects within a certain range. The ultrasonic sensor emits sound waves and measures the time taken for them to bounce back, while the servo motor rotates the sensor to cover a wider area, providing a simple yet effective detection mechanism.
+ RESOURCE: https://youtu.be/NwmcNCvUcDc?si=x2LAYMFiqs1SzLfI
+ TASK OUTCOME: introduction to-
+·        TINKERCAD
+·        Working of ultrasonic sensor and servo motor
+·        Radar technology
+PRECAUTIONS/SAFETY MEASURES- NOT ANY
+
+ 
+## TASK 10: Speed Control of DC Motor
+
+Explore basic techniques for controlling DC motors, understand the control DC motors using the
+L298N motor driver and the Arduino board. Using an UNO and H-Bridge L298N motor driver,
+control the speed of a 5V BO motor, try simulating this on tinkercad and then perform it on the
+hardware, Record videos of you doing the same.
+
+[Reference]([https://www.geeksforgeeks.org/distance-measurement-using-ultrasonic-sensor-and-arduino/](https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/))
+
+
+## TASK 11: LED Toggle Using ESP32
+
+Learn the working of an ESP32 and create a standalone web server with an ESP32 that
+controls the LED connected with ESP32 GPIOs. Use the arduino IDE to code and upload the
+program to the ESP32. Learn to configure the IDE to upload code to an ESP32.
+
+[Reference](https://microdigisoft.com/control-leds-using-esp32-web-server-in-arduino-ide/)
+
+
+## TASK 12: Soldering Prerequisites
+
+(Soldering is to be done in presence of a coordinator)
+
+Learn about the soldering equipment present in our lab, the solder, the soldering iron, soldering
+wick, flux, etc. Learn to use them and perform basic soldering on a perf board, for example a
+LED circuit in the presence of a coordinator and document the same.
+
+[Reference](https://www.makerspaces.com/how-to-solder/)
+
+
+## TASK 13:
+
+Design a 555 astable multivibrator with duty cycle 60%, rig up the circuit on a breadboard and
+by using the probes observe the output of your circuit on the DSO.
+Resources:
+
+● [Circuit](https://www.electronics-tutorials.ws/waveforms/555_oscillator.html)
+
+
+## TASK 14: Karnaugh Maps and Deriving the logic circuit
+
+Description: For 4 cases, based on door lock/open and key pressed/not pressed. Determine the
+karnaugh map and make a burglar alarm using simple logic circuits. The buzzer or led blinks
+when certain conditions are met, you can use push buttons for the door and key.
+
+(Tip: use logic gates, use k-maps to figure out the working conditions.)
+
+
+## TASK 15: Active Participation:
+
+Take part in any technical event, inter or intra college and submit the issued certificate of
+participation.
+
+Enroll for a MOOC and complete the course.
+## TASK 16: Datasheets report writing:
+
+Topics: 1)MQ135 Gas sensor 2)L293D motor driver
+Task Description: Study the datasheet of any one of the above and write a report on it. Specify about the ICs used in L293D, PWM, H-bridge etc. In case of MQ 135, specify the calibrations for different gases and the Freundlich Absorption Theorem Graph.
+
+# Domain Specific Tasks:
+
+## Task 1 History of aviation+Quiz
+This task is meant to teach the theory of aviation and the different types of planes in a more theoretical manner but by making it more hands-on by showing models by going and visiting the aviation department. This gives the students a brief of the history and the approach taken by the pioneers of the domain.
+
+This task is meant to teach the theory of aviation and the different types of planes in a more theoretical manner but by making it more hands-on by showing models by going and visiting the aviation domain. This gives the students a brief of the history and the approach taken by the pioneers of the domain.
 
 **Resource Link:**
-https://aero.iisc.ac.in/ 
-
-This is the IISC aerospace department 
-We know a few of the interns and students of the IISC aerospace department, that we can contact.
+https://www.spartan.edu/news/history-of-aviation/
 
 **Expected Outcome:**
 * Understand the past of the aviation department.
@@ -16,16 +184,14 @@ We know a few of the interns and students of the IISC aerospace department, that
 * See the thought process of thinking that led to aviation.
 
 ## Task 2- Simulation Flying 
-### Flying drones on simulator , fly it go far off and come back with a successful landing on the ground
-The students will be exposed to the simple maneuvers and the importance of line of sight in flying a UAV. As the simulator will be real life it will show how fast and far a drone can go how the axis will rotate and the difficulties of flying one.
+### Flying drones using a simulator
+The students will gain hands-on experience with fundamental drone maneuvers and understand the critical importance of maintaining line of sight while operating a UAV. Through a realistic simulator, they will observe the speed and range capabilities of drones, witness how the axes rotate, and encounter the various challenges associated with flying one.
 
 ##### Software:
-There are many software in the market but most are expensive. An example of a cheap one will be:
-**SimPro Drone Flight Simulator**
+Will edit later, after confirming which one
 
 ##### Hardware:
-Transmitter which can be used on the software
-Wires to connect the transmitter to the PC
+will edit this also later after connecting and testing.
 
 ### Expected Outcome:
 * Understanding different configurations of planes and UAVs.
@@ -54,11 +220,3 @@ Learn about different terms in an airfoil like angle of attack,camber line,chord
 * https://www.youtube.com/watch?v=noJVOpig0Vw&t=299s
 
 **Prerequisite:** Autodesk student 
-
-## TASK - 4 : REAL WORLD APPLICATION
-Learn more about data extraction from drone
-
-( A sample image of a pomegranate farm, helping to understand the yield)
-
-**Using QGIS software**
-Here different aiml topics like linear regression, computer vision(yolo model), segmentation model are used.  
