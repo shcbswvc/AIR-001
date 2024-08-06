@@ -1,222 +1,196 @@
 # Level 0
 
-# Generic Tasks
+## Generic Tasks
 
-## TASK 1: 3D Printing
+### Task 1: 3D Printing
 
-Understand the working of a 3D printer, check out the online resources. Understand what's an
-STL file, and then learn to slice it (using ultimaker or creality slicer).Learn about bed
-temperature, infill density and other printer settings. Finally get an STL file from the internet, and
-slice it and put it for print.
+Understand the working of a 3D printer by exploring online resources. Learn about STL files and slicing them using tools like Ultimaker or Creality Slicer. Get familiar with printer settings such as bed temperature and infill density. Obtain an STL file from the internet, slice it, and print it.
 
-Resources:
+**Resources:**
+- [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura/)
+- [PLA Settings](https://standardprintco.com/read/pla-filament-printing-guide-how-to-succeed-printing-pla-and-troubleshooting-common-problems-step-by-step)
+- [How 3D Printing Works](https://www.makeuseof.com/tag/what-is-3d-printing-and-how-exactly-does-it-work/)
 
-● [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura/)
+*(Note: This task should be completed under coordinator supervision.)*
 
-● [PLA settings](https://standardprintco.com/read/pla-filament-printing-guide-how-to-succeed-printing-pla-and-troubleshooting-common-problems-step-by-step)
+---
 
-● [How printer works](https://www.makeuseof.com/tag/what-is-3d-printing-and-how-exactly-does-it-work/aa/)
+### Task 2: API
 
-(Note this task is to be done under coordinator supervision.)
+Learn what an API is and how it works through [this video](https://www.youtube.com/watch?v=s7wmiS2mSXY). Using any API of your choice, build a user interface (web app, mobile app, etc.) to make calls and display information. An example weather app using the Open Weather API is provided below.
 
+**Resources:**
+- [Example Weather App](https://www.youtube.com/watch?v=HAVPicZJ9ik&feature=youtu.be)
 
-## TASK 2: API
+---
 
-What is an API? [Learn](https://www.youtube.com/watch?v=s7wmiS2mSXY) the working of an API and its applications. Using any api of your choice,
-build an user interface(web app, mobile app, etc), where you can make calls and then display
-the necessary information. An example weather app is given below, using the open weather api.
+### Task 3: Working with GitHub
 
-● [Example](https://www.youtube.com/watch?v=HAVPicZJ9ik&feature=youtu.be)
+Familiarize yourself with GitHub integrated workflows such as GitHub Actions, Issues, and pull requests. Visit the provided git repository and perform the tasks stated in the README file.
 
+**Check this link for more info:**
+- [GitHub Task Repository](https://github.com/UVCE-Marvel/git-task)
 
-## TASK 3: Working with Github
+---
 
-Familiarize yourself with GitHub integrated workflows (GitHub actions), Issues, and pull requests
-with this task. Given below is a git repository, go check it out and then perform the necessary
-tasks stated in the readme file.
+### Task 4: Command Line on Ubuntu
 
-Check this link for more info:
-https://github.com/UVCE-Marvel/git-task
+Get familiar with the command line on Ubuntu by completing the following subtasks:
+- Create a folder named `test`.
+- `cd` into that folder.
+- Create a blank file without using any text editor.
+- List the files in that folder.
+- Create 2600 folders in this folder, each named with a format like M90 or B56.
+- Concatenate two text files containing random text and display them on the terminal.
 
+**Resources:**
+- [Command Line for Beginners](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 
-## TASK 4: Get familiar with the command line on ubuntu and do the following subtasks:
-● Create a folder named test.
+---
 
-● cd into that folder.
+### Task 5: Kaggle Contest
 
-● Create a blank file without using any text editor.
+Create a Kaggle account, participate in the Titanic ML competition, and familiarize yourself with how the Kaggle platform works. The competition involves using machine learning to predict which passengers survived the Titanic shipwreck.
 
-● list the files in that folder
+**Resources:**
+- [Titanic Regression Model](https://www.kaggle.com/c/titanic)
+- [Video Reference](https://youtu.be/I3FBJdiExcg)
 
-● create 2600 folders in this folder where each folder is named like . For example, M90 or
-B56.
+---
 
-● concatenate two text files containing any random text and display them on the terminal.
+### Task 6: Working with Pandas and Matplotlib
 
-https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
+Using Pandas and Matplotlib, and a dataset of your choice, plot a line graph, bar graph, and scatter plot.
 
+**Reference:**
+- [Pandas Plot Tutorial](https://realpython.com/pandas-plot-python/)
 
-## TASK 5: Kaggle contest
-Make a kaggle account, visit the website and complete the competition
+---
 
-Participate in the Titanic ML competition – the best, first challenge for you to dive into ML
-competitions and familiarize yourself with how the Kaggle platform works.The competition is
-simple: use machine learning to create a model that predicts which passengers survived the
-Titanic shipwreck.
+### Task 7: Create a Portfolio Webpage
 
-Resources:
-Titanic regression model - https://www.kaggle.com/c/titanic
+Create a website to showcase your portfolio, including information about yourself, interests, projects, and social media profiles. Ensure the site is responsive and pushed to a git repository. Use any CSS framework of your choice.
 
-Video reference - https://youtu.be/I3FBJdiExcg
+---
 
+### Task 8: Writing Resource Article Using Markdown
 
-## TASK 6: Working with Pandas and Matplotlib:
+Markdown is a markup language used to format plain text. Write a technical resource article on a particular use case or application of UAVs. This article will help you gain technical knowledge and create a framework for future projects.
 
-Using pandas and matplotlib, and a dataset of your choice, plot a line graph, bar graph, and
-scatter plot.
+**[Link](https://hub.uvcemarvel.in/article/52f92f36-fb8a-45da-8f28-686bf4efefff)**
 
-Reference:
-https://realpython.com/pandas-plot-python/
+---
 
+### Task 9: Tinkercad
 
-## TASK 7: Create a Portfolio Webpage
+Create a Tinkercad account and familiarize yourself with the application. Simulate a simple circuit using an ultrasonic sensor to estimate the distance between an obstacle and the sensor, and display the results on the serial monitor. Create a radar system using an ultrasonic sensor and servo motor to detect objects within a certain range.
 
-Create a website to showcase your portfolio - about yourself, interests, projects, social media
-profiles and more. It has to be responsive and also pushed to the git repository. CSS can be of
-your choice and any framework can be used.
+**Resource:**
+- [Tinkercad Radar System Tutorial](https://youtu.be/NwmcNCvUcDc?si=x2LAYMFiqs1SzLfI)
 
+**Task Outcomes:**
+- Introduction to Tinkercad.
+- Understanding ultrasonic sensors and servo motors.
+- Basics of radar technology.
 
-## TASK 8: Writing Resource Article using Markdown
+---
 
-Markdown is an easy-to-use markup language that is used with plain text to add formatting
-elements (headings, bulleted lists, URLs) to plain text without the use of a formal text editor or
-the use of HTML tags. Markdown is device agnostic and displays the writing format consistently
-across device type.
-Write a technical resource article on a particular use case or application of UAV's. This article will help in getting the technical know how and can help make a frame work for the projects!
+### Task 10: Speed Control of DC Motor
 
-[Link](https://hub.uvcemarvel.in/article/52f92f36-fb8a-45da-8f28-686bf4efefff)
+Explore techniques for controlling DC motors using the L298N motor driver and Arduino board. Control the speed of a 5V DC motor with an Arduino UNO and H-Bridge L298N motor driver. Simulate this on Tinkercad and then perform it on hardware. Record videos of the process.
 
+**Reference:**
+- [Arduino DC Motor Control Tutorial](https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/)
 
-## TASK 9: Tinkercad
-Create a tinkercad account, get familiar with the application, understand the example circuits given and simulate a simple circuit using an ultrasonic sensor to estimate the distance between an obstacle and the sensor. Display the results on the serial monitor.
- 
-Create a radar system utilising an ultrasonic sensor and servo motor to detect objects within a certain range. The ultrasonic sensor emits sound waves and measures the time taken for them to bounce back, while the servo motor rotates the sensor to cover a wider area, providing a simple yet effective detection mechanism.
- RESOURCE: https://youtu.be/NwmcNCvUcDc?si=x2LAYMFiqs1SzLfI
- TASK OUTCOME: introduction to-
-·        TINKERCAD
-·        Working of ultrasonic sensor and servo motor
-·        Radar technology
-PRECAUTIONS/SAFETY MEASURES- NOT ANY
+---
 
- 
-## TASK 10: Speed Control of DC Motor
+### Task 11: LED Toggle Using ESP32
 
-Explore basic techniques for controlling DC motors, understand the control DC motors using the
-L298N motor driver and the Arduino board. Using an UNO and H-Bridge L298N motor driver,
-control the speed of a 5V BO motor, try simulating this on tinkercad and then perform it on the
-hardware, Record videos of you doing the same.
+Learn how to use an ESP32 to create a standalone web server that controls an LED connected to the ESP32 GPIOs. Use the Arduino IDE to code and upload the program to the ESP32.
 
-[Reference]([https://www.geeksforgeeks.org/distance-measurement-using-ultrasonic-sensor-and-arduino/](https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/))
+**Reference:**
+- [Control LEDs Using ESP32 Web Server](https://microdigisoft.com/control-leds-using-esp32-web-server-in-arduino-ide/)
 
+---
 
-## TASK 11: LED Toggle Using ESP32
+### Task 12: Soldering Prerequisites
 
-Learn the working of an ESP32 and create a standalone web server with an ESP32 that
-controls the LED connected with ESP32 GPIOs. Use the arduino IDE to code and upload the
-program to the ESP32. Learn to configure the IDE to upload code to an ESP32.
+Learn about soldering equipment such as solder, soldering iron, soldering wick, and flux. Perform basic soldering on a perf board, such as a simple LED circuit, under the supervision of a coordinator.
 
-[Reference](https://microdigisoft.com/control-leds-using-esp32-web-server-in-arduino-ide/)
+**Reference:**
+- [How to Solder](https://www.makerspaces.com/how-to-solder/)
 
+---
 
-## TASK 12: Soldering Prerequisites
+### Task 13: Design a 555 Astable Multivibrator
 
-(Soldering is to be done in presence of a coordinator)
+Design a 555 astable multivibrator with a duty cycle of 60%. Assemble the circuit on a breadboard and observe the output on a Digital Storage Oscilloscope (DSO).
 
-Learn about the soldering equipment present in our lab, the solder, the soldering iron, soldering
-wick, flux, etc. Learn to use them and perform basic soldering on a perf board, for example a
-LED circuit in the presence of a coordinator and document the same.
+**Resource:**
+- [555 Oscillator Circuit](https://www.electronics-tutorials.ws/waveforms/555_oscillator.html)
 
-[Reference](https://www.makerspaces.com/how-to-solder/)
+---
 
+### Task 14: Karnaugh Maps and Deriving the Logic Circuit
 
-## TASK 13:
+For 4 cases involving door lock/open and key pressed/not pressed, determine the Karnaugh map and create a burglar alarm using simple logic circuits. Use push buttons for the door and key, and design the circuit based on the K-map.
 
-Design a 555 astable multivibrator with duty cycle 60%, rig up the circuit on a breadboard and
-by using the probes observe the output of your circuit on the DSO.
-Resources:
+---
 
-● [Circuit](https://www.electronics-tutorials.ws/waveforms/555_oscillator.html)
+### Task 15: Active Participation
 
+Participate in any technical event, inter-college or intra-college, and submit the issued certificate of participation. Enroll in and complete a MOOC course.
 
-## TASK 14: Karnaugh Maps and Deriving the logic circuit
+---
 
-Description: For 4 cases, based on door lock/open and key pressed/not pressed. Determine the
-karnaugh map and make a burglar alarm using simple logic circuits. The buzzer or led blinks
-when certain conditions are met, you can use push buttons for the door and key.
+### Task 16: Datasheets Report Writing
 
-(Tip: use logic gates, use k-maps to figure out the working conditions.)
+Study the datasheet of either the MQ135 gas sensor or the L293D motor driver and write a report. For the L293D, include details about the ICs used, PWM, and H-bridge. For the MQ135, include calibrations for different gases and the Freundlich Absorption Theorem Graph.
 
+---
 
-## TASK 15: Active Participation:
+## Domain-Specific Tasks
 
-Take part in any technical event, inter or intra college and submit the issued certificate of
-participation.
+### Task 1: History of Aviation + Quiz
 
-Enroll for a MOOC and complete the course.
-## TASK 16: Datasheets report writing:
-
-Topics: 1)MQ135 Gas sensor 2)L293D motor driver
-Task Description: Study the datasheet of any one of the above and write a report on it. Specify about the ICs used in L293D, PWM, H-bridge etc. In case of MQ 135, specify the calibrations for different gases and the Freundlich Absorption Theorem Graph.
-
-# Domain Specific Tasks:
-
-## Task 1 History of aviation+Quiz
-This task is meant to teach the theory of aviation and the different types of planes in a more theoretical manner but by making it more hands-on by showing models by going and visiting the aviation department. This gives the students a brief of the history and the approach taken by the pioneers of the domain.
-
-This task is meant to teach the theory of aviation and the different types of planes in a more theoretical manner but by making it more hands-on by showing models by going and visiting the aviation domain. This gives the students a brief of the history and the approach taken by the pioneers of the domain.
+Explore the theory of aviation and different types of planes through hands-on models and a visit to the aviation department. Gain a brief understanding of the history of aviation and the pioneers of the field.
 
 **Resource Link:**
-https://www.spartan.edu/news/history-of-aviation/
+- [History of Aviation](https://www.spartan.edu/news/history-of-aviation/)
 
-**Expected Outcome:**
-* Understand the past of the aviation department.
-* See the different parts of different planes with their technical names
-* See the thought process of thinking that led to aviation.
+**Expected Outcomes:**
+- Understand the history of aviation.
+- Recognize different parts of planes and their technical names.
+- Learn about the thought process behind aviation advancements.
 
-## Task 2- Simulation Flying 
-### Flying drones using a simulator
-The students will gain hands-on experience with fundamental drone maneuvers and understand the critical importance of maintaining line of sight while operating a UAV. Through a realistic simulator, they will observe the speed and range capabilities of drones, witness how the axes rotate, and encounter the various challenges associated with flying one.
+---
 
-##### Software:
-Will edit later, after confirming which one
+### Task 2: Simulation Flying
 
-##### Hardware:
-will edit this also later after connecting and testing.
+Gain hands-on experience with fundamental drone maneuvers and understand the importance of maintaining line of sight while operating a UAV. Use a simulator to observe drone speed, range, and the rotation of axes, and tackle various flying challenges.
 
-### Expected Outcome:
-* Understanding different configurations of planes and UAVs.
-* The environmental conditions important on the flight
-* The movements and maneuvers of the UAV/Drone
-* The modes of the transmitter 
-* Learning how to use a transmitter
+**Software:**
+- Will be updated later.
 
+**Hardware:**
+- Will be updated later.
 
-## Task 3 - Design an airfoil in Fusion 360 of NACA 4412 airfoil coordinates
+**Expected Outcomes:**
+- Understand different UAV/Drone configurations.
+- Learn about environmental conditions affecting flight.
+- Observe UAV/Drone movements and maneuvers.
+- Learn how to use a transmitter.
 
-Use the DAT to spline converter or the canvas tool to sketch the airfoil using an image.
+---
 
+### Task 3: Design an Airfoil in Fusion 360
 
-Learn about different terms in an airfoil like angle of attack,camber line,chord line and leading edge. Have a clear understanding of how tweaking these parameters affects the performance of the airfoil.
-
-
-**The design should include two types one using the wood environment and the other using composites. Design the airfoil with space efficient and 3d printable internal ribs.The wing should generate at least 5 newtons of lift at a wind speed of 25m/s.**
- 
- ![NACA 4412](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5EhJfEICWzs2uJv0GOVpJvTyYN7rZdXvctg&s)
+Design an airfoil with NACA 4412 coordinates in Fusion 360. Use the DAT to spline converter or canvas tool to sketch the airfoil. Understand terms such as angle of attack, camber line, chord line, and leading edge. Design two versions: one using a wood environment and another using composites. The wing should generate at least 5 newtons of lift at a wind speed of 25 m/s.
 
 **Resource Links:**
-* https://www.youtube.com/watch?v=r2uzPa9xtaw&t=138s
-* https://www.youtube.com/watch?v=QJjhMan6T_E&t=339s
-* https://www.youtube.com/watch?v=GJHtGMq2wIM&t=228s
-* https://www.youtube.com/watch?v=noJVOpig0Vw&t=299s
+- [Fusion 360 Airfoil Design Tutorial 1](https://www.youtube.com/watch?v=r2uzPa9xtaw&t=138s)
+- [Fusion 360 Airfoil Design Tutorial 2](https://www.youtube.com/watch?v=QJjhMan6T_E&t=339s)
+- [Fusion 360 Airfoil Design Tutorial 3](https://www.youtube.com/watch?v=GJHtGMq2wIM&t=228s)
+- [Fusion 360 Airfoil Design Tutorial 4](https://www.youtube.com/watch?v=noJVOpig0Vw&t=299s)
 
-**Prerequisite:** Autodesk student 
+**Prerequisite:** Autodesk Student License
