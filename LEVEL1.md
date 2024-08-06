@@ -10,10 +10,8 @@ Takeaways:
 FLYING an UAV, understanding the forces in play
 
 Resources:
-
-1. App for airblock: https://play.google.com/store/apps/details?id=cc.makeblock.makeblock&hl=en
-	
-2. Guide: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://download.makeblock.com/AirblockAPP-EN.pdf
+1.App for airblock: https://play.google.com/store/apps/details?id=cc.makeblock.makeblock&hl=en	
+2.Guide: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://download.makeblock.com/AirblockAPP-EN.pdf
  
 ## Task 2 - Mission Possible
 Using UAV, connect the mission planner and FC either by telemetry or wired. Now setup and configure the UAV based on its physical 
@@ -29,10 +27,8 @@ Learning how to put geofence
 Learning the connections and configurations
 
 Resources:
-
-1. https://www.youtube.com/watch?v=rui2Trps2yc Explains mission planner in details
-
-2. https://www.youtube.com/watch?v=tIE8IN71UFI Flight controller in detail (Orange pixhawk) 
+1.https://www.youtube.com/watch?v=rui2Trps2yc Explains mission planner in details
+2.https://www.youtube.com/watch?v=tIE8IN71UFI Flight controller in detail (Orange pixhawk) 
 
 ## Task 3 - Designing Propellors
 
@@ -66,10 +62,8 @@ Write about different materials to assemble a drone with an empty weight of 800g
 Now using this calculate the thrust and battery esc and the other materials needed for the drone.
 
 Resources:
-
-1. Ecalc: its free but only few configurations available: https://www.ecalc.ch/
-	
-2. Study notes: TO BE MADE BY ADITYA!
+1.Ecalc: its free but only few configurations available: https://www.ecalc.ch/	
+2.Study notes: TO BE MADE BY ADITYA!
 
 Expected Outcomes:
 Being able to understand the proccess of designing a drone
@@ -117,7 +111,6 @@ Understanding the basic forces in play
 Understanding how drones are controlled
 
 Resource : 
-
-https://www.mathworks.com/products/matlab-online/matlab-online-versions.html
+1.https://www.mathworks.com/products/matlab-online/matlab-online-versions.html
 
  
