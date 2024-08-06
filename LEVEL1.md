@@ -1,123 +1,116 @@
-## Task 1 - Flying the Airblock drone
-With the help of a coordinator fly the airblock. This will be a super fun experince, do fly safely and take care of the surroundings.
+# Level 1
+## Task 1 - Flying the Airblock Drone
 
-Expected Outcome:
-To learn the basic protocols of flying
-Learning the basic safety standards and protocols
-Being able to land the drone
+With the help of a coordinator, fly the Airblock drone. This will be a super fun experience. Fly safely and take care of the surroundings.
 
-Takeaways:
-FLYING an UAV, understanding the forces in play
+**Expected Outcome:**
+- Learn the basic protocols of flying.
+- Understand the basic safety standards and protocols.
+- Be able to land the drone.
 
-Resources:
+**Takeaways:**
+- Flying a UAV and understanding the forces in play.
 
-1. App for airblock: https://play.google.com/store/apps/details?id=cc.makeblock.makeblock&hl=en
-	
-2. Guide: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://download.makeblock.com/AirblockAPP-EN.pdf
- 
+**Resources:**
+1. [App for Airblock](https://play.google.com/store/apps/details?id=cc.makeblock.makeblock&hl=en)
+2. [Guide](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://download.makeblock.com/AirblockAPP-EN.pdf)
+
+---
+
 ## Task 2 - Mission Possible
-Using UAV, connect the mission planner and FC either by telemetry or wired. Now setup and configure the UAV based on its physical 
-feautures and sensors. Now put a geofence around UVCE, so it doesnt go outside and plan a small autonomous flight, with the coordinator.
-	
-Expected Outcomes:
-Why we use mission planner?
-What are some of the major features of mission planner?
 
-Takeaways:
-Learn the importance and being able to automate our UAV's
-Learning how to put geofence
-Learning the connections and configurations
+Using a UAV, connect the mission planner and FC either by telemetry or wired. Now set up and configure the UAV based on its physical features and sensors. Put a geofence around UVCE so it doesn't go outside and plan a small autonomous flight with the coordinator.
 
-Resources:
+**Expected Outcomes:**
+- Understand why we use Mission Planner.
+- Learn about some of the major features of Mission Planner.
 
-1. https://www.youtube.com/watch?v=rui2Trps2yc Explains mission planner in details
+**Takeaways:**
+- Learn the importance and be able to automate UAVs.
+- Learn how to set a geofence.
+- Learn the connections and configurations.
 
-2. https://www.youtube.com/watch?v=tIE8IN71UFI Flight controller in detail (Orange pixhawk) 
+**Resources:**
+1. [Mission Planner Explained](https://www.youtube.com/watch?v=rui2Trps2yc) – Explains Mission Planner in detail.
+2. [Flight Controller Details (Orange Pixhawk)](https://www.youtube.com/watch?v=tIE8IN71UFI) – Flight controller in detail.
 
-## Task 3 - Designing Propellors
+---
 
-Design a propellor blade to generate a lift of around 9 newtons. Design both clockwise and counterclockwise blades.Make sure to be mindful of the leading and trailing edge on the blades.Run a simulation on CFD to calculate a detailed report on the same.
+## Task 3 - Designing Propellers
 
-Resources:
+Design a propeller blade to generate a lift of around 9 newtons. Design both clockwise and counterclockwise blades. Be mindful of the leading and trailing edges on the blades. Run a simulation on CFD to generate a detailed report.
 
-1.https://www.youtube.com/watch?v=g_Wi_JSmKvI
+**Expected Outcomes:**
+- The toroidal propeller should match the dimensions of the propeller blades in Marvel, and the internal threading should fit tightly over the shaft of the BLDC motor.
+- 3D print the toroidal propeller with appropriate support structures.
+- Provide a sample of the toroidal propeller to the Marvel Lab.
 
-2.https://www.youtube.com/watch?v=nS9SfKLdkw4
+**Takeaways:**
+- Learn about different types of propellers.
+- Understand the physics behind propellers.
+- Be able to use CFD and Fusion 360.
 
-3.https://www.youtube.com/watch?v=-rOQBDObyC4
-	
-4.https://www.youtube.com/watch?v=mUMkiXwikw4
+**Resources:**
+1. [Propeller Design Tutorial 1](https://www.youtube.com/watch?v=g_Wi_JSmKvI)
+2. [Propeller Design Tutorial 2](https://www.youtube.com/watch?v=nS9SfKLdkw4)
+3. [Propeller Design Tutorial 3](https://www.youtube.com/watch?v=-rOQBDObyC4)
+4. [Propeller Design Tutorial 4](https://www.youtube.com/watch?v=mUMkiXwikw4)
+5. [Propeller Design Tutorial 5](https://www.youtube.com/watch?v=UzYHO4tksTc)
+6. [Propellers Overview](https://oscarliang.com/propellers/)
 
-5.https://www.youtube.com/watch?v=UzYHO4tksTc
-	
-6.https://oscarliang.com/propellers/
+---
 
-Expected outcomes:
-The toroidal propellor should match with the dimensions of the propellor blades in marvel and the internal threading should be such that it fits tightly over the shaft of the BLDC motor.
-3D print the toroidal propellor with appropriate support structures.Furnish a sample of the toroidal propellor to the Marvel Lab.
+## Task 4 - Assembling a Drone Using Ecalc
 
-Takeaways:
-Learning the different types of propellors
-Learning the physics behind it
-Being able to use CFD and fusion 360
+Write about different materials to assemble a drone with an empty weight of 800g. State the reasons behind material selection and endurance. Calculate the thrust, battery, ESC, and other materials needed for the drone.
 
-## Task 4 - Assembling Drone using Ecalc
-Write about different materials to assemble a drone with an empty weight of 800g. State the reason behind material selection and endurance
-Now using this calculate the thrust and battery esc and the other materials needed for the drone.
+**Expected Outcomes:**
+- Understand the process of designing a drone.
+- Learn about payload and thrust.
+- Calculate weight and the thrust-to-weight ratio needed.
 
-Resources:
+**Takeaways:**
+- Design a drone based on any project.
+- Understand the importance of battery and thrust.
+- Read data sheets of motors.
 
-1. Ecalc: its free but only few configurations available: https://www.ecalc.ch/
-	
+**Resources:**
+1. [Ecalc](https://www.ecalc.ch/) – Free with limited configurations.
 2. Study notes: TO BE MADE BY ADITYA!
 
-Expected Outcomes:
-Being able to understand the proccess of designing a drone
-Learning about payload and thrust 
-How to calculate weight 
-Ratio of thrust to weight needed
+---
 
-Takeaways:
-Being able to design a drone based on any project
-Understanding the importance of battery and thrust
-Being able to read data sheets of motors
+## Task 5 - Regulations of DGCA
 
-## Task 5 - REGULATIONS OF DGCA
-Learn more about ICAO, SARPS, QCI, BIS, stakeholders and their basic laws.
-Go through AIP. 
+Learn about ICAO, SARPS, QCI, BIS, stakeholders, and their basic laws. Review the AIP.
 
-1.Resources :
-www.dgca.in>> drones>> regulations
+**Resources:**
+- [DGCA Regulations](http://www.dgca.in>> drones>> regulations)
 
-All the best!
+**Expected Outcomes:**
+- Understand and follow the laws and regulations.
 
-QUIZ ON KAHOOT HERE! TO BE INSERTED
+**Takeaways:**
+- Know basic safety protocols for yourself and others.
 
-Expected outcomes:
-Being able to follow the laws and why to follow these laws?
+**Quiz:**
+- QUIZ ON KAHOOT HERE! TO BE INSERTED
 
-Takeaways:
-Knowing basic safety protocols for ourselves and others too!
+---
 
-## Task 6 - Real world application
+## Task 6 - Real World Application
 
-Choose any real world application of a drone, design the drone and simulate it in matlab
+Choose a real-world application of a drone, design the drone, and simulate it in MATLAB.
 
-Resources:
-https://www.youtube.com/watch?v=hGcGPUqB67Q&list=PLPNM6NzYyzYqMYNc5e4_xip-yEu1jiVrr
-This playlist goes through simulating on MATLAB
+**Expected Outcomes:**
+- Design a basic drone in MATLAB.
+- Understand the applications of drones.
 
-Expected Outcome:
-Being able to design a basic drone on matlab
-Understand the applications of drones
+**Takeaways:**
+- Use MATLAB for drone simulation.
+- Understand the basic forces in play.
+- Learn how drones are controlled.
 
-Takeaways:
-Being able to use MATLAB 
-Understanding the basic forces in play
-Understanding how drones are controlled
-
-Resource : 
-
-https://www.mathworks.com/products/matlab-online/matlab-online-versions.html
-
- 
+**Resources:**
+1. [MATLAB Simulation Playlist](https://www.youtube.com/watch?v=hGcGPUqB67Q&list=PLPNM6NzYyzYqMYNc5e4_xip-yEu1jiVrr) – Goes through simulating on MATLAB.
+2. [MATLAB Online Versions](https://www.mathworks.com/products/matlab-online/matlab-online-versions.html)
