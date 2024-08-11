@@ -176,6 +176,8 @@ Explore the theory of aviation and different types of planes through hands-on mo
 - Understand the history of aviation.
 - Recognize different parts of planes and their technical names.
 - Learn about the thought process behind aviation advancements.
+![Aviation-History](https://gist.github.com/user-attachments/assets/f7dbd45b-6d3d-44b8-853c-444de89e0e78)
+
 
 ---
 
@@ -195,6 +197,7 @@ Gain hands-on experience with fundamental drone maneuvers and understand the imp
 - Observe UAV/Drone movements and maneuvers.
 - Learn how to use a transmitter.
 
+![simulator](https://gist.github.com/user-attachments/assets/d4b8ab09-6f4d-47a7-b6bd-10f88a133598)
 ---
 
 ### Task 3: Design an Airfoil in Fusion 360
@@ -208,3 +211,6 @@ Design an airfoil with NACA 4412 coordinates in Fusion 360. Use the DAT to splin
 - [Fusion 360 Airfoil Design Tutorial 4](https://www.youtube.com/watch?v=noJVOpig0Vw&t=299s)
 
 **Prerequisite:** Autodesk Student License
+![aerofoil](https://gist.github.com/user-attachments/assets/92111829-c648-411c-b8fd-c4d98b867093)
+3c214153)
+
