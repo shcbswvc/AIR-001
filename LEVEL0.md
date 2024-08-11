@@ -1,19 +1,23 @@
 # Level 0
 
 ## Generic Tasks
+## TASK 1: 3D Printing
 
-### Task 1: 3D Printing
+Understand the working of a 3D printer, check out the online resources. Understand what's an
+STL file, and then learn to slice it (using ultimaker or creality slicer).Go through the SOP'S regarding the 3d printer. Learn about bed
+temperature, infill density and other printer settings. Finally get an STL file from the internet, and
+slice it and put it for print.
 
-Understand the working of a 3D printer by exploring online resources. Learn about STL files and slicing them using tools like Ultimaker or Creality Slicer. Get familiar with printer settings such as bed temperature and infill density. Obtain an STL file from the internet, slice it, and print it.
+Resources:
 
-**Resources:**
-- [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura/)
-- [PLA Settings](https://standardprintco.com/read/pla-filament-printing-guide-how-to-succeed-printing-pla-and-troubleshooting-common-problems-step-by-step)
-- [How 3D Printing Works](https://www.makeuseof.com/tag/what-is-3d-printing-and-how-exactly-does-it-work/)
+● [Introduction to 3d printer](https://www.youtube.com/watch?v=kM5zRO3n9-Y)
 
-*(Note: This task should be completed under coordinator supervision.)*
+● [PLA settings](https://standardprintco.com/read/pla-filament-printing-guide-how-to-succeed-printing-pla-and-troubleshooting-common-problems-step-by-step)
 
----
+● [Types of 3D printing](https://formlabs.com/asia/blog/fdm-vs-sla-vs-sls-how-to-choose-the-right-3d-printing-technology/)
+
+(Note this task is to be done under coordinator supervision.)
+![3dprinter](https://gist.github.com/user-attachments/assets/6339d1a8-82d4-4631-8fd6-af7d77de983f)
 
 ### Task 2: API
 
@@ -146,7 +150,17 @@ Participate in any technical event, inter-college or intra-college, and submit t
 ### Task 16: Datasheets Report Writing
 
 Study the datasheet of either the MQ135 gas sensor or the L293D motor driver and write a report. For the L293D, include details about the ICs used, PWM, and H-bridge. For the MQ135, include calibrations for different gases and the Freundlich Absorption Theorem Graph.
+## Task 17: Introduction to VR
 
+Familiarise yourself with what Virtual Reality is. Make a detailed study about what's the difference between VR and AR. Mention about the trends in the space and technology stack being developed. Make about Indian companies in this space. Make the report with detail. Using generative AI to generate this study can lead to disqualification.
+
+![vrlol](https://gist.github.com/user-attachments/assets/f9c1c57b-5861-4ffb-9c2b-31f01f184531)
+
+## Task 18: Hands on experience with VR
+
+Determine your batch with the coordinator and attend an introductory offline session on the available VR headset in lab i.e, HP Reverb G2. Familiarize yourself with sketching in 3D with gravity sketch. Use the tutorial menu to design a bike with a mannequin positioned on it. The candidate is expected to learn about using all the tools in the environment which include using various brush strokes, line tool, curve tool, shapes, mirroring, manipulating and resizing objects, changing sketching hands on the controller and using the align tool.
+
+![GR](https://gist.github.com/user-attachments/assets/87fc73e7-478a-4854-9ab4-123cd02be94e)
 ---
 
 ## Domain-Specific Tasks
