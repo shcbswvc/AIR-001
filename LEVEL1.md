@@ -59,8 +59,8 @@ Design a propeller blade to generate a lift of around 9 newtons. Design both clo
 4. [Propeller Design Tutorial 4](https://www.youtube.com/watch?v=mUMkiXwikw4)
 5. [Propeller Design Tutorial 5](https://www.youtube.com/watch?v=UzYHO4tksTc)
 6. [Propellers Overview](https://oscarliang.com/propellers/)
-
-![toroidal prop](https://gist.github.com/user-attachments/assets/ae7a8dfb-6dfa-4289-85ea-b5a3
+![toroidal prop](https://gist.github.com/user-attachments/assets/0a627bbf-70fd-4e4c-a651-fec93df7acfb)
+ 
 ---
 
 ## Task 4 - Assembling a Drone Using Ecalc
