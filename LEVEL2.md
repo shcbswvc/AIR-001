@@ -40,6 +40,7 @@ Design a leg for a quadcopter frame using the dimensions of the standard T50 fra
 #### Conclusion
 By completing this task, you will gain practical experience in using generative design tools to create optimized components for quadcopters. This exercise emphasizes the importance of balancing weight reduction and structural integrity in design engineering.
 
+![generative design drone](https://gist.github.com/user-attachments/assets/34751975-3489-4334-acb9-067ce2a7fd13)
 ---
 
 ## ROS 1
@@ -56,6 +57,8 @@ By completing this task, you will gain practical experience in using generative 
 * Rule of the Sky: Implementing Drone Regulations Using ROS
 
   [Resources](https://www.ros.org/)
+  ![ROS](https://gist.github.com/user-attachments/assets/b6006280-af07-4af8-8b1e-1862ad0d3715)
+
 
 ### Apply ROS 1 to a real-world robotics challenge.
 
