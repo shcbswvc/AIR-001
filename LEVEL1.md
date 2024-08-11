@@ -14,6 +14,7 @@ With the help of a coordinator, fly the Airblock drone. This will be a super fun
 **Resources:**
 1. [App for Airblock](https://play.google.com/store/apps/details?id=cc.makeblock.makeblock&hl=en)
 2. [Guide](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://download.makeblock.com/AirblockAPP-EN.pdf)
+![airblock](https://gist.github.com/user-attachments/assets/978bb56c-a58a-4d29-8bf2-4d5cb4829a5d)
 
 ---
 
@@ -33,6 +34,7 @@ Using a UAV, connect the mission planner and FC either by telemetry or wired. No
 **Resources:**
 1. [Mission Planner Explained](https://www.youtube.com/watch?v=rui2Trps2yc) – Explains Mission Planner in detail.
 2. [Flight Controller Details (Orange Pixhawk)](https://www.youtube.com/watch?v=tIE8IN71UFI) – Flight controller in detail.
+   ![mission planner](https://gist.github.com/user-attachments/assets/72846199-9531-4982-ba81-ce0e9d49ad5f)
 
 ---
 
@@ -58,6 +60,7 @@ Design a propeller blade to generate a lift of around 9 newtons. Design both clo
 5. [Propeller Design Tutorial 5](https://www.youtube.com/watch?v=UzYHO4tksTc)
 6. [Propellers Overview](https://oscarliang.com/propellers/)
 
+![toroidal prop](https://gist.github.com/user-attachments/assets/ae7a8dfb-6dfa-4289-85ea-b5a3
 ---
 
 ## Task 4 - Assembling a Drone Using Ecalc
@@ -77,6 +80,7 @@ Write about different materials to assemble a drone with an empty weight of 800g
 **Resources:**
 1. [Ecalc](https://www.ecalc.ch/) – Free with limited configurations.
 2. Study notes: TO BE MADE BY ADITYA!
+![ecalc](https://gist.github.com/user-attachments/assets/8e7593b1-68bb-4c6a-b41f-70e040286b29)
 
 ---
 
@@ -95,6 +99,8 @@ Learn about ICAO, SARPS, QCI, BIS, stakeholders, and their basic laws. Review th
 
 **Quiz:**
 - QUIZ ON KAHOOT HERE! TO BE INSERTED
+![drone regulations](https://gist.github.com/user-attachments/assets/088d88d6-e3ff-4b63-9713-f303fa6ad6af)
+
 
 ---
 
@@ -114,3 +120,7 @@ Choose a real-world application of a drone, design the drone, and simulate it in
 **Resources:**
 1. [MATLAB Simulation Playlist](https://www.youtube.com/watch?v=hGcGPUqB67Q&list=PLPNM6NzYyzYqMYNc5e4_xip-yEu1jiVrr) – Goes through simulating on MATLAB.
 2. [MATLAB Online Versions](https://www.mathworks.com/products/matlab-online/matlab-online-versions.html)
+
+![DRONE USES](https://gist.github.com/user-attachments/assets/597185a6-57ab-4f9a-8482-c75fca98733a)
+![matlabdrone](https://gist.github.com/user-attachments/assets/ec56cbf9-efd8-4dee-b5ea-5a3f9a91d0ab)
+
