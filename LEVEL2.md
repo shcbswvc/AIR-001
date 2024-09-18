@@ -79,6 +79,47 @@ By completing this task, you will gain practical experience in using generative 
 
  [Resources](https://github.com/Intelligent-Quads/iq_tutorials)
 
+### Task:Integrating LiDAR Sensor for 3D Mapping using ROS
+
+**Objective:** To integrate a LiDAR sensor into a drone payload system using ROS and generate a 3D map of a specified area.   
+
+*Hardware Required:*
+* Assembeled drone from level-1
+* compatible payload Interface
+* ROS-compatible flight controller
+* laptop or computer with ROS-installed
+
+**Procedure:**
+1. *ROS Setup*
+   * Install ROS on your computer and make sure it's compatible with your drone's flight controller.
+   * Create a ROS workspace and download necessary packages for LiDAR integration and 3D mapping. (e.i. pcl, gmapping, tf)
+2. *LiDAR Sensor Integration*
+   * Physically connect the LiDAR sensor to the drone's payload interface.
+   * locate the designated payload interface on your drone (could be port or mounting point). Carefully allign the LiDAR sensor with the payload interface ensuring proper orientation and fit. Use screws and clamps to securely attach the LiDAR sensor to the drone. Connect the LiDAR sensor to drone's power supply and data base. use additional cables or adapters if necessary.
+   * Configure the LiDAR sensor's parameters (e.i scan rate, min/max angle) using provided software or ROS drivers.
+3. *ROS Node Creation*
+   * Create a ROS node to receive and process data from the LiDAR sensor.
+   * Use an appropriate ROS driver for your LiDAR sensor to publish point cloud data to a topic.
+4. *3D Mapping Node*
+   * Create a separate ROS node for 3D mapping.
+   * subscribe to the point cloud topic from the LiDAR sensor.
+   * Use a SLAM algorithm ( Gmapping ) to process the point cloud data and create a 3D map.
+   * Publish the generated map to a topicc.
+5. *Visualization.*
+   * Use ROS visualization tool (e.i.RViz) to visualize the point cloud data and the generated 3D map.
+6. *Testing and refinement*
+   * Conduct test flights to collect LiDAR data and evaluate the accuracy of the generated 3D map.
+   * Refine the mapping parameters and algorithm as needed to improve the map's quality.
+
+**Precaution:**
+ensure that the LiDAR sensor is properly caliberated to obtain accurate measurements.5
+
+**Resources:**    
+* https://www.youtube.com/watch?v=eJZXRncGaGM
+* https://www.youtube.com/watch?v=Qrtz0a7HaQ4
+* http://www.ijater.com/Files/5afad700-9e01-4f8c-8bfc-eb8f4892775b_IJATER_51_12.pdf
+
+
 ---
 
 ## ROS 2 Fundamentals
